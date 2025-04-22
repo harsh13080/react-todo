@@ -1,0 +1,19 @@
+
+
+
+
+input{
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+}
+
+
+.kg-row{
+  margin: 10px 5px;
+}
+
+.kg-button{
+  min-width: 80px;
+
+}
